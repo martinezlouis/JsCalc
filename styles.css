@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20vw;
+    box-shadow: 1px 22px 22px 10px rgba(0,0,0,0.57);
+    padding: 1%;
+    color: aliceblue;
+    background-color: #145DA0;
+    
+}
+
+.card-body{
+    border: solid 2px black;
+    padding: 12%;
+    border-radius: 15%;
+    background-color: #B1D4E0;
+}
